@@ -97,7 +97,7 @@ ans4 = st.text_input(
 st.session_state.ans1_val = ans1
 st.session_state.ans2_val = ans2
 st.session_state.ans3_val = ans3
-st.session_state.ans4 _val = ans4
+st.session_state.ans4_val = ans4
 
 
 # 4. ปุ่มส่งคำตอบ
